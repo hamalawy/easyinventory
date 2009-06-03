@@ -5,8 +5,7 @@ public class EasyInventory {
 		
 		System.out.println("LET" + "'" + "S GET MONEY !!!");
 
-		System.out.println("TESTING");
-		
+		System.out.println("YOOOOOOOOOOOOOOOOO");
 	}
 
 }
