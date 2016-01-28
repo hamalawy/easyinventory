@@ -1,0 +1,1 @@
+An Application which will have a growing database to store important information needed by businesses to manage their assets and employees.
